@@ -1,6 +1,6 @@
-# CaguasTrava
+# caguastrava
 
-CaguasTrava es una app social inspirada en Strava, pero en vez de trackear carreras o rutas en bicicleta, trackea tus salidas de tragos: cocteles, cervezas, destilados y los lugares donde te los tomas.
+caguastrava es una app social inspirada en Strava, pero en vez de trackear carreras o rutas en bicicleta, trackea tus salidas de tragos: cocteles, cervezas, destilados y los lugares donde te los tomas.
 
 ## ¿Qué hace?
 
